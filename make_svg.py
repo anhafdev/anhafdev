@@ -104,11 +104,11 @@ def build():
             continue
 
         if kind == "bullet":
-            start = LAYOUT["value_x"] - LAYOUT["bullet_indent"]
+            start = LAYOUT["value_x"]
             body.append(
                 '<g class="w" fill="%s" style="animation-delay:%.3fs">'
                 '<circle cx="%.2f" cy="%.2f" r="2.4"/></g>'
-                % (PALETTE["label"], clock, start, baseline - 5)
+                % (PALETTE["label"], clock, start + 2.4, baseline - 5)
             )
             cursor = start + step * 2
             for word in row["text"].split(" "):
@@ -190,10 +190,14 @@ def build():
         % (LAYOUT["width"], height, PALETTE["background"], LAYOUT["bar_x"], height - 36, PALETTE["bar"])
     )
 
+    render_width = LAYOUT["render_width"]
+    render_height = render_width * height / LAYOUT["width"]
+
     return (
         '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %.0f %.0f" width="%.0f" '
-        'height="%.0f" role="img" aria-label="ANHAF profile card">%s%s%s%s</svg>'
-        % (LAYOUT["width"], height, LAYOUT["width"], height, style, frame, "".join(body), caret)
+        'height="%.0f" preserveAspectRatio="xMidYMid meet" role="img" '
+        'aria-label="ANHAF profile card">%s%s%s%s</svg>'
+        % (LAYOUT["width"], height, render_width, render_height, style, frame, "".join(body), caret)
     )
 
 

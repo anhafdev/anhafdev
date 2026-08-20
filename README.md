@@ -1,1 +1,1 @@
-> <img src="./assets/profile-card.svg" width="880" alt="F. ANHAF DEV — Python Automation &amp; Full-Stack Developer based in Bangladesh. Stack: Python, JavaScript, SQL, HTML, CSS, FastAPI, Flask, aiogram, Playwright, React, Next.js, MySQL, MongoDB, PostgreSQL.">
+> <img src="./assets/profile-card.svg" width="600" alt="ANHAF — Python Automation &amp; Full-Stack Developer based in Bangladesh. Stack: Python, JavaScript, SQL, FastAPI, Flask, aiogram, HTML, CSS, React, Next.js, Playwright, Camoufox, Docker, Git, MySQL, MongoDB, PostgreSQL." />
