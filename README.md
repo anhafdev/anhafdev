@@ -1,1 +1,1 @@
-# F. ANHAF DEV
+> <img src="./assets/profile-card.svg" width="880" alt="F. ANHAF DEV — Python Automation &amp; Full-Stack Developer based in Bangladesh. Stack: Python, JavaScript, SQL, HTML, CSS, FastAPI, Flask, aiogram, Playwright, React, Next.js, MySQL, MongoDB, PostgreSQL.">
