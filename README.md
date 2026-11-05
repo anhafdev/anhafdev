@@ -24,9 +24,6 @@
   <a href="https://t.me/anhafdev">
     <img src="https://img.shields.io/badge/HIRE_ME-OPEN_FOR_FREELANCE-0F9D8A?style=for-the-badge&logo=telegram&logoColor=white" alt="Hire me on Telegram" />
   </a>
-  <a href="https://github.com/anhafdev">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
