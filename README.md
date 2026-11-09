@@ -33,10 +33,10 @@ I value clear communication, dependable delivery, and code that stays maintainab
 <div align="center">
 
 <a href="https://t.me/anhafdev"><img src="https://img.shields.io/badge/Telegram-@anhafdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="mailto:contact@anhaf.dev"><img src="https://img.shields.io/badge/Email-YOUR_EMAIL_HERE-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:contact@anhaf.dev"><img src="https://img.shields.io/badge/Email-CONTACT@ANHAF.DEV-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://anhaf.dev"><img src="https://img.shields.io/badge/Portfolio-anhaf.dev-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
-<a href="https://www.fiverr.com/tonmoy_anhaf"><img src="https://img.shields.io/badge/Fiverr-@algoanhaf-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+<a href="https://www.fiverr.com/tonmoy_anhaf"><img src="https://img.shields.io/badge/Fiverr-@tonmoy_anhaf-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
 <a href="https://www.upwork.com/freelancers/anhaf?mp_source=share"><img src="https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 
 </div>
